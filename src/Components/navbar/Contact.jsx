@@ -57,7 +57,7 @@ const Contact = () => {
             </div>
             <div className="info-item">
               <span className="info-icon">📞</span>
-              <p>MD SAQUIB ALAM | +91 8541078902</p>
+              <p>Saquib | +91 8541078902</p>
             </div>
             <div className="info-item">
               <span className="info-icon">✉️</span>
