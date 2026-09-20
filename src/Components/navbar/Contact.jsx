@@ -53,11 +53,11 @@ const Contact = () => {
           <div className="info-details">
             <div className="info-item">
               <span className="info-icon">📍</span>
-              <p>Mumbai, Maharashtra</p>
+              <p>Giridih, Jharkhand</p>
             </div>
             <div className="info-item">
               <span className="info-icon">📞</span>
-              <p>+91 8541078902 | +91 7004819326</p>
+              <p>+91 8541078902</p>
             </div>
             <div className="info-item">
               <span className="info-icon">✉️</span>
