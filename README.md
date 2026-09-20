@@ -1,16 +1,30 @@
-# React + Vite
+# Unverse_Logic
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern web application built with ASP.NET Core and Razor Pages.
 
-Currently, two official plugins are available:
+## 🚀 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* **Framework:** .NET 10.0
+* **Architecture:** ASP.NET Core Web Application using Razor Pages
+* **Front-End Libraries:** Optimized static assets including Bootstrap, jQuery, and jQuery Validation
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **Razor Pages Routing:** Configured for seamless page-based routing and mapped static assets[cite: 10].
+* **Environment Configuration:** Pre-configured `appsettings.json` and `appsettings.Development.json` for flexible logging and host allowances[cite: 10].
+* **Security Defaults:** Implements HTTP Strict Transport Security (HSTS) and HTTPS redirection for secure connections out-of-the-box[cite: 10].
+* **Robust Error Handling:** Features built-in exception handling routing (`/Error`) tailored for production environments[cite: 10].
 
-## Expanding the ESLint configuration
+## 💻 Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Follow these steps to run the project locally on your machine.
+
+### Prerequisites
+
+* [.NET 10.0 SDK](https://dotnet.microsoft.com/download/dotnet) or later[cite: 10]
+
+### How to Run Locally
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/mdsaquib592-wq/universelogic
