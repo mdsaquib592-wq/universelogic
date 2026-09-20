@@ -50,7 +50,7 @@ const Footer = () => {
 
       <div className="footer-col contact-info">
         <h3>Contact Us</h3>
-        <p>📍 Mumbai, Maharashtra</p>
+        <p>📍 Giridih, Jharkhand</p>
         <p>📞<span> +91 8541078902</span></p>
         <p>✉️ support@universelogic.in</p>
       </div>
